@@ -4,12 +4,12 @@ The exercise from the Udacity Python for AI course.
 
 ## Set up
 
-conda env create -f dog_classifier.yaml
+    conda env create -f dog_classifier.yaml
 
 ## Run
 
-python home/check_images.py
+    python home/check_images.py
 
 ## Licence
 
-MIT
+[MIT](https://opensource.org/licenses/MIT)
